@@ -1,5 +1,5 @@
 # Elevator Multi-Threading
-
+https://www.cs.uic.edu/~ckanich/cs361/s16/homework6.html
 - Implement an elevator controller for a building with F floors
 - The elevator controller is split in between 2 "Classes" Elevator and Building 
 	- Since C does not use classes, I will simply make seperate .c files for these
